@@ -1,2 +1,2 @@
-# star_rating_button
-JS Star Rating Button
+# Star Rating Button
+JS Star Rating Button.
